@@ -1,8 +1,29 @@
-# React + Vite
+### Descrição do Projeto
+Este projeto consiste em uma aplicação web front de gerenciador de gastos, onde é possível adiciona e excluir gastos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tecnologias Utilizadas
+* **Frontend**: React e Bootstrap
 
-Currently, two official plugins are available:
+### Como Rodar o Projeto
+#### 1. Clonar o Repositório
+~~~bash 
+git clone https://github.com/DanyelGranzotti/trabalho_web_react
+~~~~
+#### 2. Entrar na Pasta do Projeto
+~~~bash
+cd trabalho_web_react
+~~~
+#### 3. Instalar as Dependências
+~~~bash
+npm install
+~~~
+#### 4. Rodar o Projeto
+~~~bash
+npm start
+~~~
+#### 5. Acessar a Aplicação
+A aplicação estará disponível em: `http://localhost:5173/`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Autores: 
+- Danyel Granzotti
+- Gabriela Coutinho
