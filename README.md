@@ -27,3 +27,5 @@ A aplicação estará disponível em: `http://localhost:5173/`
 ### Autores: 
 - Danyel Granzotti
 - Gabriela Coutinho
+
+Alterção README.md Atividade Gerência de Configuração - 1
