@@ -31,3 +31,5 @@ A aplicação estará disponível em: `http://localhost:5173/`
 Alterção README.md Atividade Gerência de Configuração - 1
 
 Alterção README.md Atividade Gerência de Configuração - 2
+
+Alterção README.md Atividade Gerência de Configuração - 3
